@@ -1,9 +1,9 @@
 <!DOCTYPE>
 <html>
 <head>
-  <title>Some relevant title</title>
+  <title>Congratulation</title>
 </head>
 <body>
-<h2>Hello World! My Second Tomcat Deployment</h2>
+<h2>Hey! If you are here means jenkins CICD pipeline working and Simplilearn project assignment has completed successfully</h2>
 </body>
 </html>
